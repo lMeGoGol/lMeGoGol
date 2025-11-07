@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmegogol&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lmegogol&layout=compact&theme=tokyonight)
-![Snake animation](https://github.com/lmegogol/dmytroyakovenko/blob/output/snake.svg#gh-light-mode-only)
-![Snake animation](https://github.com/lmegogol/dmytroyakovenko/blob/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/lmegogol/lmegogol/blob/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/lmegogol/lmegogol/blob/output/snake-dark.svg#gh-dark-mode-only)
 
 ---
 
